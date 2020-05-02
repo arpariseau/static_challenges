@@ -1,0 +1,22 @@
+body {
+  font-family: helvetica, sans-serif;
+}
+
+header {
+  background-color: darkslategrey;
+}
+
+h1 {
+  font-size: 35px;
+  color: white;
+  margin-left: 30px;
+  padding: 20px;
+}
+
+login {
+  background-color: limegreen;
+  color: white;
+  padding: 40px;
+  float: right;
+  width: 15%;
+}
