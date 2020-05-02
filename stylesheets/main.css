@@ -33,16 +33,26 @@ li {
 }
 
 #museum {
-background-image: url("../images/1.jpg");
-height: 600px;
-background-size: 1450px 725px;
-background-position: bottom;
+  background-image: url("../images/1.jpg");
+  height: 600px;
+  background-size: 1450px 725px;
+  background-position: bottom;
 }
 
 h2 {
   font-size: 30px;
   font-weight: bold;
   color: white;
-  margin-left: 10px;
-  padding: 40px;
+  margin-left: 20px;
+  padding: 30px;
+}
+
+#museumtext {
+  background-color: darkslategrey;
+}
+
+p {
+  color: white;
+  margin-left: 30px;
+  padding: 20px;
 }
