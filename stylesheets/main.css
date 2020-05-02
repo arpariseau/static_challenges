@@ -14,6 +14,15 @@ h1 {
   padding: 20px;
 }
 
+#login {
+  background-color: limegreen;
+  color: white;
+  float: right;
+  padding: 30px;
+  width: 30px;
+  height: 15px;
+}
+
 nav {
   background-color: darkslateblue;
 }
